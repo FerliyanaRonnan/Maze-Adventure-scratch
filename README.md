@@ -42,7 +42,7 @@ File `.sb3` sebenarnya cuma arsip ZIP berisi `project.json` (definisi seluruh bl
 |---|---|
 | **Stage** | Simpan variabel Skor & Timer, tambah skor tiap detik |
 | **Tembok** | Tampilkan pola labirin, jadi rintangan |
-| **Hero** | Sprite pemain — gerak dengan tombol panah, deteksi tabrakan tembok/monster/bintang |
+| **Hero** | Sprite pemain gerak dengan tombol panah, deteksi tabrakan tembok/monster/bintang |
 | **Monster** | Bergerak otomatis, memantul & berbelok saat kena tembok |
 | **Bintang** | Target kemenangan, berputar terus sebagai animasi idle |
 
