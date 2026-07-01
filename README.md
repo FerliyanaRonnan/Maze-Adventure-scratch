@@ -33,8 +33,8 @@ File `.sb3` sebenarnya cuma arsip ZIP berisi `project.json` (definisi seluruh bl
 | Bagian | Isi |
 |---|---|
 | **Aset visual** | SVG buatan sendiri: 2 kostum Hero, Monster, Bintang, pola Tembok labirin, dan Backdrop panggung |
-| **Aset suara** | WAV disintesis manual pakai gelombang sinus (fungsi `make_beep_wav`) — suara "Oops" saat kalah dan "Win" saat menang |
-| **project.json** | 5 target: Stage (variabel & timer), Tembok, Hero, Monster, Bintang — masing-masing dengan logika blok Scratch (`event`, `motion`, `control`, `sensing`) |
+| **Aset suara** | WAV disintesis manual pakai gelombang sinus (fungsi `make_beep_wav`) suara "Oops" saat kalah dan "Win" saat menang |
+| **project.json** | 5 target: Stage (variabel & timer), Tembok, Hero, Monster, Bintang masing-masing dengan logika blok Scratch (`event`, `motion`, `control`, `sensing`) |
 
 ## Struktur Target
 
